@@ -26,7 +26,7 @@
 <h2>빌드빌드 자동빌드</h2>
 <h5>냐냐냐냐냐냐냥</h5>
 <div>
-	<textarea style="width: 100%; height: 120px;" class="form-conrol" id="msg">저는 귀염둥이 성준이에용</textarea>
+	<textarea style="width: 100%; height: 120px;" class="form-conrol" id="msg">저는 귀염둥이 흑임이에용</textarea>
 </div>
 
 <div class="input-grop" style="width: 250px; margin-left: 50px; margin-top: 10px;">
