@@ -38,11 +38,11 @@ public class VoiceController {
 	            if(lang.equals("ko"))
 	            	naraVoice = "nminyoung";
 	            else if(lang.equals("en"))
-	            	naraVoice = "deriko";
+	            	naraVoice = "djoey";
 	            else if(lang.equals("ja"))
-	            	naraVoice = "meimei";
+	            	naraVoice = "ntomoko";
 	            else if(lang.equals("zh-CN"))
-	            	naraVoice = "nminyoung";
+	            	naraVoice = "liangliang";
 	            else if(lang.equals("es"))
 	            	naraVoice = "carmen";
 	            else if(lang.equals("fr"))
