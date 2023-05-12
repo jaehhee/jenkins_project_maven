@@ -9,5 +9,6 @@
 <body>
 
 <h1>hello</h1>
+<h6>자동빌드 테스트</h6>
 </body>
 </html>
